@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+App Description : Simple Todo Application app, created in react. 
+
+App Functions :
+    * Add Item
+    * Delete Item
+    * View Added Items
+
 ## Available Scripts
 
 In the project directory, you can run:
